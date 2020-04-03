@@ -12,7 +12,7 @@ The process for using the interface is simple. Java uses the native code as meth
 
 ![](animatedGIF.gif)
 
-**For simply reproducing the code**
+**For simply reproducing the build**
 
 Before starting you have to define your java home directory for makefile to work.
 This is my system's path for java home directory.
@@ -26,11 +26,15 @@ $ cd HelloWorld
 $ make all
 $ make run
 ```
+
+
 **For cleaning up**
 
 ```shell
 $ make clean
 ```
+
+
 **For compiling Java files**
 
 ```shell
@@ -41,7 +45,10 @@ $ make java
 ```shell
 $ make header
 ```
+
 **For compiling the C/C++ code**
 ```shell
 $ make native
 ```
+
+## To know more about Java Native Interface and its use read the wiki 
