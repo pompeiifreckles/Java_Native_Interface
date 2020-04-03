@@ -10,6 +10,8 @@ For simpilicity I wrote the code with compatibility with \*nix sytems only but c
 
 The process for using the interface is simple. Java uses the native code as methods of classes therefore the native code can be called during Java runtime.
 
+![](animatedGIF.gif)
+
 **For simply reproducing the code**
 
 Before starting you have to define your java home directory for makefile to work.
