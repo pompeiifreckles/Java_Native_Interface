@@ -51,4 +51,4 @@ $ make header
 $ make native
 ```
 
-## To know more about Java Native Interface and its use read the wiki 
+***To know more about Java Native Interface and its use read the wiki*** 
